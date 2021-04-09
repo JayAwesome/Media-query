@@ -248,6 +248,10 @@ div.box3 h5 {
         background: #f0f0f0;
         text-align: center;
     }
+
+    div.snapshot-team h2 {
+        font-size: 1.2re;
+    }
 }
 
 
